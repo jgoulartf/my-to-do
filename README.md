@@ -1,8 +1,8 @@
 # My-To-do
 
-## - App to-do simples.
+- ## App to-do simples.
 
-## - Tecnologias
+- ## Tecnologias
   - Bulma css
   - Express.js
   - MongoDB 
